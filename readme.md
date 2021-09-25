@@ -10,7 +10,7 @@ This project is to provide useful informations and creative merchandises for all
 
 ## Current updates
 
-This project is currently under construction and schedule to launch at the end of October 2021.
+This project is currently under construction and schedule to launch at the end of October 2021. Current status is to build the general layout and each pages for a complete working website.
 
 ## Quesntions
 
