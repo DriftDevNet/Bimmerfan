@@ -23,21 +23,6 @@ html {
   animation: slide 20s infinite;
 }
 
-@keyframes slide {
-  0% {
-    background-image: url(/pics/pic1.jpg);
-  }
-  25% {
-    background-image: url(/pics/pic2.jpg);
-  }
-  50% {
-    background-image: url(/pics/pic3.jpg);
-  }
-  75% {
-    background-image: url(/pics/pic4.jpg);
-  }
-}
-
 .logo img {
   width: 20rem;
   margin: 1rem;
